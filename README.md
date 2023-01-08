@@ -11,7 +11,7 @@ We studied DiffusionDet which is a diffusion model for object detection. Specifi
 
 https://user-images.githubusercontent.com/58911531/211219166-84071751-63b4-4e2b-901c-52cd6bfd2f86.mp4
 
-
+This tracking video was obtained with the tracker we have built. 
 
 
 
