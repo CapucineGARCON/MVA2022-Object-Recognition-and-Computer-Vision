@@ -6,6 +6,11 @@ Codebase studying Diffusion models for object detection and multi-object trackin
 We studied DiffusionDet which is a diffusion model for object detection. Specifically, we reproduced the results of the author on MS-COCO dataset and compared DiffusionDet performances with Faster R-CNN. The main goal was to extend the use of Diffusion model to Multi-Object Tracking. We implemented a centroid-based tracker on top of the DiffusionDet model. 
 
 
+
+https://user-images.githubusercontent.com/58911531/211219100-24982b91-5e7d-4e70-afd3-90193e4582cd.mp4
+
+
+
 ### Authors
 
 - Noémie BERGUES ([github](https://github.com/noemiebergues))
