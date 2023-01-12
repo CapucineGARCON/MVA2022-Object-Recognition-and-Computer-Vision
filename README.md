@@ -1,7 +1,7 @@
 # MVA2022-Object-Recognition-and-Computer-Vision
 ## Object Detection and Tracking with DiffusionDet
 
-Codebase studying Diffusion models for object detection and multi-object tracking based on [Chen & al.](https://arxiv.org/abs/2211.09788), for a school project in the Object Recognition and Computer Vision Course (I. LAPTEV, J. PONCE, C. SCHMID, J. SIVIC) at Master 2 MVA in Ecole Normale Superieur Paris-Saclay. 
+Codebase studying Diffusion models for object detection and multi-object tracking based on [Chen & al.](https://arxiv.org/abs/2211.09788), for a school project in the Object Recognition and Computer Vision Course (I. LAPTEV, J. PONCE, C. SCHMID, J. SIVIC) at Master 2 MVA in Ecole Normale Superieure Paris-Saclay. 
 
 We studied DiffusionDet which is a diffusion model for object detection. Specifically, we reproduced the results of the author on MS-COCO dataset and compared DiffusionDet performances with Faster R-CNN. The main goal was to extend the use of Diffusion model to Multi-Object Tracking. We implemented a centroid-based tracker on top of the DiffusionDet model. 
 
